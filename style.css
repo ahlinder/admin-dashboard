@@ -1,9 +1,4 @@
 @font-face {
-    font-family: rem;
-    src: url(fonts/REM-VariableFont_wght.ttf);
-}
-
-@font-face {
     font-family: roboto;
     src: url(fonts/Roboto-Black.ttf);
 }
